@@ -4,6 +4,10 @@
 
 Welcome to our physics project on the use of wind turbines as a source of energy.
 
+### 📄 Instructions
+
+Detailed instructions for running the programs and understanding the analyses are provided in the PDF file named `coding_project_guidelines.pdf`. This document includes the steps to follow for the project. Please refer to this document for comprehensive guidelines.
+
 ### 🎯 Objective of the Programs
 
 The objective of this project is to analyze wind data from various locations to determine the optimal site for installing a wind-energy farm. Our Python program processes real-life wind datasets to:
